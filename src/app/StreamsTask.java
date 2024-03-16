@@ -16,3 +16,4 @@ public class StreamsTask {
         userManager.filterUsersWithEmailContaining123().forEach(System.out::println);
     }
 }
+//fdgr
